@@ -5,7 +5,7 @@ AI & ML Engineer | Passionate about NLP.
 ---
 
 ## 🔗 Socials  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/konstantinos-tournas-05513b334/)  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://x.com/Tournas_)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/konstantinos-tournas-05513b334/)  [![X](https://img.shields.io/badge/-X-000?style=flat&logo=x&logoColor=white)](https://x.com/Tournas_)
 
 ---
 
