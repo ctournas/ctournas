@@ -6,7 +6,7 @@ AI & ML Engineer, passionate about NLP, Voice-based conversational AI, Voice cha
 ---
 
 ## 🔗 Socials  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/konstantinos-tournas-05513b334/)  ![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://x.com/Tournas_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/konstantinos-tournas-05513b334/)  [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter)](https://x.com/Tournas_)
 
 ---
 
