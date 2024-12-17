@@ -1,21 +1,35 @@
 ## Konstantinos Tournas
 
+
+
 ## About me
 AI & ML Engineer, passionate about NLP
 
+
+
 ---
+
+
 
 ## 🔗 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/konstantinos-tournas-05513b334/)  
 [![Twitter](https://img.shields.io/badge/Twitter-@kostas123-blue?logo=twitter)](https://x.com/Tournas_)
 
+
+
 ---
 
+
+
 ## ⚙️ Tech Stack
+
+
 
 **Programming Languages**  
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)  
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
+
+---
 
 **Machine Learning & Deep Learning**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)  
