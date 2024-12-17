@@ -1,12 +1,12 @@
 ## Konstantinos Tournas
 
 ## About me  
-AI & ML Engineer, passionate about NLP, Voice-based conversational AI, Voice chatbots, Speech recognition, Speech synthesis.
+AI & ML Engineer, passionate about NLP.
 
 ---
 
 ## 🔗 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/konstantinos-tournas-05513b334/)  [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter)](https://x.com/Tournas_)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/konstantinos-tournas-05513b334/)  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://x.com/Tournas_)
 
 ---
 
