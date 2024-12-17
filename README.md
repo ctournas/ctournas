@@ -38,3 +38,7 @@ AI & ML Engineer | Passionate about NLP.
 **MLops & others**  
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white&scale=1.3)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white&scale=1.3)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=tournas&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
