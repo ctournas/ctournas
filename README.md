@@ -1,6 +1,6 @@
-# Konstantinos Tournas
+## Konstantinos Tournas
 
-**About me**  
+##About me
 AI & ML Engineer, passionate about NLP
 
 ---
