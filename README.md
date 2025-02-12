@@ -1,6 +1,6 @@
 
 # About me  
-AI & ML Engineer | Passionate about NLP.
+AI & Machine Learning Engineer | Passionate about NLP.
 
 ---
 
