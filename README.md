@@ -18,7 +18,7 @@
 ---
 
 ### **AI & Machine Learning Framework**  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  ![TensorFlow/Keras](https://img.shields.io/badge/-TensorFlow%2FKeras-FF6F00?style=flat&logo=tensorflow&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  ![Transformers](https://img.shields.io/badge/-Transformers-FFDE57?style=flat)  ![SciPy](https://img.shields.io/badge/-SciPy-8A5E9F?style=flat&logo=scipy&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  ![TensorFlow/Keras](https://img.shields.io/badge/-TensorFlow%2FKeras-FF6F00?style=flat&logo=tensorflow&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)    ![SciPy](https://img.shields.io/badge/-SciPy-8A5E9F?style=flat&logo=scipy&logoColor=white)  ![Transformers](https://img.shields.io/badge/-Transformers-FFDE57?style=flat)
 
 ---
 ### **Generative AI & NLP**  
