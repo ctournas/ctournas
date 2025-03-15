@@ -11,7 +11,7 @@
 
 ## ⚙️ Tech Stack
 
-**Programming Languages**  
+### **Programming Languages**  
 
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=white&scale=1.3)  ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white&scale=1.3)
 
