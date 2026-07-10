@@ -145,6 +145,11 @@ def recursive_loc(owner, repo_name, data, cache_comment, addition_total=0, delet
     }'''
     variables = {'repo_name': repo_name, 'owner': owner, 'cursor': cursor}
     request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables':variables}, headers=HEADERS) # I cannot use simple_request(), because I want to save the file before raising Exception
+    for retry in range(1, 4):
+        if request.status_code not in (502, 503, 504):
+            break
+        time.sleep(2 * retry) # transient GitHub API hiccup, back off and retry
+        request = requests.post('https://api.github.com/graphql', json={'query': query, 'variables':variables}, headers=HEADERS)
     if request.status_code == 200:
         if request.json()['data']['repository']['defaultBranchRef'] != None: # Only count commits if repo isn't empty
             return loc_counter_one_repo(owner, repo_name, data, cache_comment, request.json()['data']['repository']['defaultBranchRef']['target']['history'], addition_total, deletion_total, my_commits)
